@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate Software Engineer from Indiaa</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/animation-code-psql-NllFYNJQg5evK.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 
 - 🌱 I’m currently learning **React Native**
 
