@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A passionate Software Engineer from Indiaa</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 
 - 🌱 I’m currently learning **React Native**
